@@ -1,4 +1,4 @@
 snotobot
 ========
 
-A bot for twitch.tv to do lots of useful things!
+A bot for twitch.tv that does lots of useful things!
